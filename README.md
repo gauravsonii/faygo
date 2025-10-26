@@ -1,4 +1,4 @@
-<h1 align="center">lakshb.dev</h1>
+<h1 align="center">faygo</h1>
 
 <p align="center">
 
