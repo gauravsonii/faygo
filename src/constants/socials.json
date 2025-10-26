@@ -1,0 +1,38 @@
+[
+	{
+		"id": 1,
+		"name": "resume",
+		"url": "/resume",
+		"target": "_self",
+		"icon": "resume"
+	},
+	{
+		"id": 2,
+		"name": "twitter",
+		"url": "https://x.com/faygo78akhil",
+		"target": "_blank",
+		"icon": "twitter"
+	},
+	{
+		"id": 3,
+		"name": "github",
+		"url": "https://github.com/Akhil-Rawat",
+		"target": "_blank",
+		"icon": "github"
+	},
+	{
+		"id": 5,
+		"name": "linkedin",
+		"url": "https://www.linkedin.com/in/akhilrawat1/",
+		"target": "_blank",
+		"icon": "linkedin"
+	},
+	{
+		"id": 6,
+		"name": "email",
+		"url": "mailto:rawatakhilvibh@gmail.com",
+		"target": "_blank",
+		"icon": "email"
+	}
+
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"id": 1,
+		"title": "ChessChain",
+		"description": "Blockchain-based chess platform with smart contracts",
+		"link": "https://github.com/Akhil-Rawat/chesschain"
+	},
+	{
+		"id": 2,
+		"title": "StreamPay",
+		"description": "Real-time payment streaming platform for micro-transactions",
+		"link": "https://github.com/Akhil-Rawat/streampay"
+	}
+]
