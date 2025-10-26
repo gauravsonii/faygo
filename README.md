@@ -13,7 +13,3 @@
 <img src ="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white">
 
 </p>
-
-<a href="https://lakshb.dev" target="_blank" rel="noreferrer noopenner">
-<img src="./public/og.png" alt="lakshb.dev" width="100%">
-</a>
